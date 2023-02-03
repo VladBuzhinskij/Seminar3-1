@@ -6,4 +6,4 @@
 ## Changes from remote repository
 
 
-## Changes from Vlad
+## Changes from Vladislav
